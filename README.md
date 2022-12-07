@@ -1,6 +1,6 @@
 # deno-starter
 
-简单的 [deno](https://deno.land/) 项目结构
+简单的 [deno](https://deno.land/) 项目模板
 
 <br />
 
