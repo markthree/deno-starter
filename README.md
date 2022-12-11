@@ -20,12 +20,6 @@ deno task start
 deno task bundle
 ```
 
-### compile
-
-```shell
-deno task compile
-```
-
 <br />
 
 ## License
