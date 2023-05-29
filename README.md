@@ -14,10 +14,10 @@
 deno task start
 ```
 
-### bundle
+### release
 
 ```shell
-deno task bundle
+deno task release # 将修改 src/version.ts 中的版本号
 ```
 
 <br />

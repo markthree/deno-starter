@@ -1,6 +1,6 @@
 {
 	"tasks": {
-		"start": "deno run src/main.ts",
-		"bundle": "rm -rf dist && mkdir dist && deno bundle mod.ts dist/mod.js"
+		"start": "deno run mod.ts",
+		"release": "deno run -A --unstable https://deno.land/x/ndeno@v1.2.0/release.ts"
 	}
 }
